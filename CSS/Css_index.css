@@ -77,7 +77,7 @@ nav a:hover {
 }
 
 /* Estilos del contenido principal */
-#carrusel,
+#carrusel, /*This id doesn't exist*/
 #MasVendidos,
 #OfertaFlash,
 #Testimonios {
