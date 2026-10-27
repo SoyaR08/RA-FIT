@@ -40,7 +40,7 @@
     │   ├── pagocorrecto.css
     │   ├── producto.css
     │   └── registro_correcto.css
-    ├── Documentos => Docs created before coding
+    ├── docs => Docs created before coding
     ├── HTML
     │   ├── Bienvenida.html
     │   ├── Contactanos.html
