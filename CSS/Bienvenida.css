@@ -32,9 +32,6 @@ button {
     border: none;
     border-radius: 20px; /* Bordes más redondeados */
     cursor: pointer;
-    margin-right: 10px;
-    margin-bottom: 10px; /* Separación entre los botones */
-    margin-left: 10px;
 }
 
 button:hover {
