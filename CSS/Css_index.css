@@ -9,7 +9,7 @@ body {
 header {
     background-color: #333;
     color: #fff;
-    padding: 10px;
+    padding: .625em;
     text-align: center;
     
 }
@@ -19,14 +19,14 @@ nav {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    gap: 5px;
 }
 
 nav a {
     color: #fff;
     text-decoration: none;
-    padding: 10px;
-    margin: 0 5px;
-    border-radius: 20px;
+    padding: .5em;
+    border-radius: 15px;
 }
 
 nav a:hover {
@@ -68,20 +68,19 @@ nav a:hover {
 #descuento {
     background-color: #ffcc00;
     text-align: center;
-    padding: 20px 0;
+    padding: 1.25em 0;
 }
 
 #letraverano {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 
 /* Estilos del contenido principal */
-#carrusel, /*This id doesn't exist*/
 #MasVendidos,
 #OfertaFlash,
 #Testimonios {
-    padding: 20px;
+    padding: 1.25em;
     background-color: #f4f4f4;
 }
 
@@ -90,7 +89,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 20px 0;
+    padding: 1.25em 0;
 }
 
 footer a {
@@ -167,8 +166,7 @@ button {
     border: none;
     border-radius: 20px; /* Bordes más redondeados */
     cursor: pointer;
-    margin-right: 10px;
-    margin-bottom: 10px; /* Separación entre los botones */
+    margin-right: 10px; /* Separación entre los botones */
     margin-left: 10px;
 }
 
